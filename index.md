@@ -5,7 +5,7 @@ Aqui se muestran los repositorios creados sobre diferentes temas de la materia d
 
 ### Modulos
 
-[Aprendizaje autoestadistico](Aprendizaje_estadistico/Auto_Statistical_Learning.md)
+[Aprendizaje autoestadistico](Auto-Statistical-Learning/Auto_Statistical_Learning.md)
 [Regresion lineal y multiple]
 [Solucion de Problemas]
 [Proyecto primer parcial]
