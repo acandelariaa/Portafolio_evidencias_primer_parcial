@@ -9,6 +9,6 @@ Aqui se muestran los repositorios creados sobre diferentes temas de la materia d
 
 [Regresion lineal y multiple](Regresion_Lineal_Multiple/index.md)
 
-[Solucion de Problemas]()
+[Solucion de Problemas](Solucion_de_Problemas/index.md)
 
 [Proyecto primer parcial]
