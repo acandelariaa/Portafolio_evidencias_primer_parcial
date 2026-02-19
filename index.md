@@ -6,6 +6,6 @@ Aqui se muestran los repositorios creados sobre diferentes temas de la materia d
 ### Modulos
 
 [Aprendizaje autoestadistico](Auto-Statistical-Learning/Auto_Statistical_Learning.md)
-[Regresion lineal y multiple]
+[Regresion lineal y multiple](Regresion_Lineal_Multiple/index.md)
 [Solucion de Problemas]
 [Proyecto primer parcial]
