@@ -1,5 +1,5 @@
-# Portafolio de evidencias
-
+# Inteligencia Artificial - Portafolio de evidencias (Primer Parcial)
+## Juan Angel Candelaria Rodriguez # 653728
 Aqui se muestran los repositorios creados sobre diferentes temas de la materia de inteligencia artificial a lo largo del primer parcial.
 
 
