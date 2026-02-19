@@ -11,4 +11,4 @@ Aqui se muestran los repositorios creados sobre diferentes temas de la materia d
 
 [Solucion de Problemas](Solucion_de_Problemas/index.md)
 
-[Proyecto primer parcial]
+[Proyecto primer parcial](Proyecto_primer_parcial/index.md)
