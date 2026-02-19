@@ -3,7 +3,7 @@ Debido al potencial del uso de la IA en el procesamiento de datos, en este módu
 
 ### Recursos
 
-|Dataset|[Obesidad.csv](A1_1_Obesidad.csv)|
+|Dataset|[Obesidad.csv](A1_1_Obesidad(1).csv)|
 |-------|--------|
 |Notebook|[.ipynb](Tarea_A1_aprendizaje_estadistico_automatico.ipynb)|
 
